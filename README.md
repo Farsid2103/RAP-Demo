@@ -1,2 +1,2 @@
 # RAP-Demo
-Demo RAP Applictions
+Contains examples on Managed and Unmanaged sceanrios in RAP. 
